@@ -37,7 +37,7 @@ function Footer() {
         <br />
         ROMIL SHAH
         <br />
-        <a href="https://github.com/romilshah98/Assignment_6" target="blank">
+        <a href="https://github.com/romilshah98/assignment_7" target="blank">
           GitHub repository
         </a>
       </p>
